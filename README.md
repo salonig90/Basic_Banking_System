@@ -1,7 +1,7 @@
 # Basic_Banking_System
 Task-1
 
-THE HDFC Bank Sparks Foundation Internship Project. Basic Banking System A Web Application used to tra between multiple users Project contains 10 dummy users.
+THE HDFC Bank Sparks Foundation Internship Project. Basic Banking System A Web Application used to transfer money between multiple users Project contains 10 dummy users.
 
 Task assigned was ass follows:
 
